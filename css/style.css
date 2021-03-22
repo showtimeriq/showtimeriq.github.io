@@ -67,8 +67,9 @@ ul{
    padding:0;
 }
 img{
-   vertical-align: middle;
-   max-width: 100%;
+  width: 100%;
+  height: auto;
+  
 }
 .container{
    max-width: 1140px;
@@ -1298,4 +1299,6 @@ contact section
 }
 
 
-
+.github {
+   color: #4dd0e1;
+}
